@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="title_activity_git_hub_trending">GitHubTrendingActivity</string>
+    <string name="trending_repo">Trending Repo</string>
+    <string name="trending_developer">Trending Developer</string>
+    <string name="search">Search</string>
+    <string name="user_name">%s / %s</string>
+    <string name="internet_check_message">Please check internet</string>
+
+</resources>

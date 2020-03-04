@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="repoData"
+            type="app.muneesh.githubtrendings.datalayer.localdatasource.tables.RepoData" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        style="@style/CardView.Light"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardMaxElevation="2dp"
+        card_view:cardPreventCornerOverlap="false"
+        card_view:cardUseCompatPadding="true"
+        card_view:contentPadding="@dimen/padding_small">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_avatar"
+                    android:layout_width="@dimen/avatar_size"
+                    android:layout_height="@dimen/avatar_size"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:src="@drawable/ic_launcher_background" />
+
+                <TextView
+                    android:id="@+id/text_repo_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/margin_medium"
+                    android:text="@{repoData.name}"
+                    android:textSize="@dimen/medium_text_size"
+                    app:layout_constraintStart_toEndOf="@id/img_avatar"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/text_description"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/margin_medium"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:maxLines="2"
+                    android:text="@{repoData.description}"
+                    app:layout_constraintEnd_toStartOf="@id/text_period_starts"
+                    app:layout_constraintStart_toEndOf="@id/img_avatar"
+                    app:layout_constraintTop_toBottomOf="@id/text_repo_name"
+                    tools:text="@string/app_name" />
+
+                <ImageView
+                    android:id="@+id/img_language"
+                    android:layout_width="@dimen/small_img_size"
+                    android:layout_height="@dimen/small_img_size"
+                    android:layout_marginStart="@dimen/margin_medium"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:src="@drawable/ic_launcher_background"
+                    app:layout_constraintStart_toEndOf="@id/img_avatar"
+                    app:layout_constraintTop_toBottomOf="@id/text_description" />
+
+                <TextView
+                    android:id="@+id/text_language"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_text"
+                    android:text="@{repoData.language}"
+                    app:layout_constraintBottom_toBottomOf="@+id/img_language"
+                    app:layout_constraintStart_toEndOf="@+id/img_language"
+                    app:layout_constraintTop_toTopOf="@+id/img_language"
+                    tools:text="@string/app_name" />
+
+                <ImageView
+                    android:id="@+id/img_stars"
+                    android:layout_width="@dimen/small_img_size"
+                    android:layout_height="@dimen/small_img_size"
+                    android:layout_marginStart="@dimen/margin_medium"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:src="@drawable/ic_launcher_background"
+                    app:layout_constraintStart_toEndOf="@id/text_language"
+                    app:layout_constraintTop_toBottomOf="@id/text_description" />
+
+                <TextView
+                    android:id="@+id/text_stars"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_text"
+                    android:text="@{Integer.toString(repoData.stars)}"
+                    app:layout_constraintBottom_toBottomOf="@+id/img_stars"
+                    app:layout_constraintStart_toEndOf="@+id/img_stars"
+                    app:layout_constraintTop_toTopOf="@+id/img_stars"
+                    tools:text="@string/app_name" />
+
+                <ImageView
+                    android:id="@+id/img_forks"
+                    android:layout_width="@dimen/small_img_size"
+                    android:layout_height="@dimen/small_img_size"
+                    android:layout_marginStart="@dimen/margin_medium"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:src="@drawable/ic_launcher_background"
+                    app:layout_constraintStart_toEndOf="@id/text_stars"
+                    app:layout_constraintTop_toBottomOf="@id/text_description" />
+
+                <TextView
+                    android:id="@+id/text_forks"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_text"
+                    android:text="@{Integer.toString(repoData.forks)}"
+                    app:layout_constraintBottom_toBottomOf="@+id/img_forks"
+                    app:layout_constraintStart_toEndOf="@+id/img_forks"
+                    app:layout_constraintTop_toTopOf="@+id/img_forks"
+                    tools:text="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/text_period_starts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:text="@{Integer.toString(repoData.currentPeriodStars)}"
+                    android:textSize="@dimen/large_text_size"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="2345" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</layout>
+
