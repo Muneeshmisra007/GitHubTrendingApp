@@ -50,9 +50,9 @@ class RepoListAdapter(
         }
 
         private fun setImage(repoData: RepoData, binding: RowGithubRepoBinding) {
-            Glide.with(binding.root)  //2
-                .load(repoData.avatar) //3
-                .centerCrop() //4
+            Glide.with(binding.root)
+                .load(repoData.avatar)
+                .centerCrop()
                 .into(binding.imgAvatar)
         }
     }

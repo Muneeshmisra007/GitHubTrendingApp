@@ -33,10 +33,6 @@ class DeveloperListAdapter(private val context: Context, private var list: List<
         holder.onBind(list[position])
     }
 
-    fun onClick(data: DeveloperData){
-        Toast.makeText(context, "huhu", Toast.LENGTH_LONG).show();
-    }
-
     fun updateAdapterData(list: List<DeveloperData>) {
         this.list=list
         notifyDataSetChanged()
@@ -51,9 +47,9 @@ class DeveloperListAdapter(private val context: Context, private var list: List<
         }
 
         private fun setImage(developerData: DeveloperData, binding: RowGithubDeveloperBinding) {
-            Glide.with(binding.root)  //2
-                .load(developerData.avatar) //3
-                .centerCrop() //4
+            Glide.with(binding.root)
+                .load(developerData.avatar)
+                .centerCrop()
                 .into(binding.imgAvatar)
         }
     }
