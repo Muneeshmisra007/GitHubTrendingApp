@@ -31,7 +31,7 @@ class DeveloperViewModel @Inject constructor(private var repos: GitHubRepository
             }
             .doOnError {
                 isLoading.value = false
-                developerData.value = ArrayList<DeveloperData>()
+                developerData.value = ArrayList()
             }
             .subscribe {
                 developerData.value = it
@@ -48,7 +48,6 @@ class DeveloperViewModel @Inject constructor(private var repos: GitHubRepository
         return searchData
     }
 
-    @SuppressLint("CheckResult")
     fun getSearchData(search: String) {
         val disposable = repos.getDevsBySearch(search)
             .subscribeOn(Schedulers.io())

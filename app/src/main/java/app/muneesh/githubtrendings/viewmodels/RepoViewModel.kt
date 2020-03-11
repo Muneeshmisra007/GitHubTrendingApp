@@ -10,7 +10,9 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 import io.reactivex.schedulers.Schedulers
+import java.util.*
 import javax.inject.Inject
+import kotlin.collections.ArrayList
 
 /**
  * Created by Muneesh on 2020-03-03.
@@ -47,14 +49,13 @@ class RepoViewModel @Inject constructor(private var repository: GitHubRepository
         return searchData;
     }
 
-    @SuppressLint("CheckResult")
     fun searchText(text: String) {
         var disposable = repository.getRepoBySearch(text).subscribeOn(Schedulers.io())
             .observeOn(AndroidSchedulers.mainThread())
             .doOnComplete {
             }
             .doOnError {
-                repoData.value = ArrayList()
+                repoData.value = Collections.emptyList()
             }
             .subscribe {
                 searchData.value = it

@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="55555" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b197471b-1666-41ed-b2aa-7efd2b047126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModel.kt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GitHubTrendings" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/RepoViewModelTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding>
+                <element signature="e#48#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModelTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/GitHubDeveloperFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="746">
+              <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/remotedatasource/GitHubTrendingAPIService.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/GitHubRepository.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/DeveloperListAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/application/GitHubTrendingApp.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="e#49#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>life</find>
+      <find>PlaceholderFragment</find>
+      <find>repo_name</find>
+      <find>description</find>
+      <find>text_repo_name</find>
+      <find>text_description</find>
+      <find>override</find>
+      <find>repositoryDao</find>
+      <find>apiService</find>
+      <find>context</find>
+      <find>GitHubTrendingAPIService</find>
+      <find>for</find>
+      <find>stars</find>
+      <find>forks</find>
+      <find>currentPeriodStars</find>
+      <find>text_period_starts</find>
+      <find>onCreateViewHolder</find>
+      <find>minSdkVersion</find>
+      <find>buildToolsVersion</find>
+      <find>glide</find>
+      <find>mocki</find>
+      <find>mock</find>
+      <find>ndroidx.test:runne</find>
+      <find>powermock_junit4</find>
+      <find>'</find>
+      <find>ndroid.arch.core:core-testi</find>
+      <find>GitHubTrendingActivity</find>
+      <find>tomato</find>
+      <find>zombiedev</find>
+      <find>uiautomator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dev_name</replace>
+      <replace>text_description</replace>
+      <replace>text_name</replace>
+      <replace>text_user_name</replace>
+      <replace>localRepository</replace>
+      <replace>remoteRepository</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/AppComponent.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/GitHubTrendingDB.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/remotedatasource/RemoteRepositoryImpl.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/factory/ViewModelFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/viewmodel/ViewModelKey.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/viewmodel/ViewModelFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/GithubTrendingViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/components/AppComponent.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/modules/FragmentModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/modules/ActivityModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/GitHubTabAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_github_developer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/viewmodel/ViewModelModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/application/GitHubTrendingApp.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/GitHubTrendingActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/GitHubRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/daos/RepositoryDao.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/ItemClickListener.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/callbacks/OnItemClickListener.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/tables/DeveloperData.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/tables/RepoData.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/Constants.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_github_repo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_git_hub_developer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_githubrepo_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/modules/AppModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/GitHubRepoFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/GitHubDeveloperFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/BaseFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_git_hub_repo_deatail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/BaseActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/GitHubRepoDeatailActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/app/muneesh/githubtrendings/ExampleInstrumentedTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepositoryImpl.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/CoreUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/core/CoreUtilsTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepositoryImplTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/datalayer/localdatasource/TestObserver.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/RepoViewModel.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/TestObserver.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/RxSchedulerRule.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/RepoViewModelTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModelTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/DeveloperListAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/RepoListAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GitHubTrendings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTrendings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTrendings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTrendings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTrendings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTrendings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTrendings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTrendings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitHubTrendings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHubTrendings" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_29 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="app.muneesh.githubtrendings" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="app.muneesh.githubtrendings.di.components" />
+      <recent name="app.muneesh.githubtrendings.ui" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="app.muneesh.githubtrendings.ui.fragment" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="app.muneesh.githubtrendings.viewmodels" />
+      <recent name="app.muneesh.githubtrendings.core" />
+      <recent name="app.muneesh.githubtrendings.datalayer.localdatasource" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="app.muneesh.githubtrendings.ui.activity" />
+      <recent name="app.muneesh.githubtrendings.ui.fragment" />
+      <recent name="app.muneesh.githubtrendings.ui" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.GitHubTrendings-app">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="CoreUtilsTest.testIsConnectedToInternet" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitHubTrendings-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.muneesh.githubtrendings.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.muneesh.githubtrendings.core" />
+      <option name="MAIN_CLASS_NAME" value="app.muneesh.githubtrendings.core.CoreUtilsTest" />
+      <option name="METHOD_NAME" value="testIsConnectedToInternet" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeveloperViewModelTest.init method sets liveData value to empty list" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitHubTrendings-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.muneesh.githubtrendings.viewmodels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.muneesh.githubtrendings.viewmodels" />
+      <option name="MAIN_CLASS_NAME" value="app.muneesh.githubtrendings.viewmodels.DeveloperViewModelTest" />
+      <option name="METHOD_NAME" value="init method sets liveData value to empty list" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalRepositoryImplTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitHubTrendings-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.muneesh.githubtrendings.datalayer.localdatasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.muneesh.githubtrendings.datalayer.localdatasource" />
+      <option name="MAIN_CLASS_NAME" value="app.muneesh.githubtrendings.datalayer.localdatasource.LocalRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalRepositoryImplTest.insertRepositories (1)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitHubTrendings-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.muneesh.githubtrendings.datalayer.localdatasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.muneesh.githubtrendings.datalayer.localdatasource" />
+      <option name="MAIN_CLASS_NAME" value="app.muneesh.githubtrendings.datalayer.localdatasource.LocalRepositoryImplTest" />
+      <option name="METHOD_NAME" value="insertRepositories" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubTrendings-app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GitHubTrendings-app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeveloperViewModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitHubTrendings-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.muneesh.githubtrendings.viewmodels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.muneesh.githubtrendings.viewmodels" />
+      <option name="MAIN_CLASS_NAME" value="app.muneesh.githubtrendings.viewmodels.DeveloperViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.DeveloperViewModelTest.init method sets liveData value to empty list" />
+        <item itemvalue="Android JUnit.LocalRepositoryImplTest.insertRepositories (1)" />
+        <item itemvalue="Android JUnit.LocalRepositoryImplTest" />
+        <item itemvalue="Android JUnit.CoreUtilsTest.testIsConnectedToInternet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b197471b-1666-41ed-b2aa-7efd2b047126" name="Default Changelist" comment="" />
+      <created>1582951572871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582951572871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CoreUtilsTest_testIsConnectedToInternet - 2020.03.04 at 08h 39m 53s.xml">
+      <configuration name="CoreUtilsTest.testIsConnectedToInternet" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="LocalRepositoryImplTest_insertRepositories_(1) - 2020.03.04 at 08h 44m 55s.xml">
+      <configuration name="LocalRepositoryImplTest.insertRepositories (1)" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="LocalRepositoryImplTest - 2020.03.04 at 08h 45m 35s.xml">
+      <configuration name="LocalRepositoryImplTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="LocalRepositoryImplTest_insertRepositories_(1) - 2020.03.04 at 08h 45m 44s.xml">
+      <configuration name="LocalRepositoryImplTest.insertRepositories (1)" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest - 2020.03.04 at 09h 18m 21s.xml">
+      <configuration name="DeveloperViewModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest - 2020.03.04 at 09h 23m 55s.xml">
+      <configuration name="DeveloperViewModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest_init_method_sets_liveData_value_to_empty_list - 2020.03.04 at 09h 26m 59s.xml">
+      <configuration name="DeveloperViewModelTest.init method sets liveData value to empty list" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest - 2020.03.04 at 09h 27m 23s.xml">
+      <configuration name="DeveloperViewModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest - 2020.03.04 at 09h 30m 43s.xml">
+      <configuration name="DeveloperViewModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeveloperViewModelTest - 2020.03.04 at 09h 30m 49s.xml">
+      <configuration name="DeveloperViewModelTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="965" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49940547" visible="true" weight="0.33333334" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" sideWeight="0.50059456" side_tool="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32818073" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.44827586" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.32936978" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32705882" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32896304" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Android WiFi ADB" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Performance" order="8" weight="0.32967034" />
+      <window_info anchor="right" id="Preview" order="9" weight="0.32967034" />
+      <window_info anchor="right" x="786" y="492" width="108" height="18" id="Attributes" order="10" side_tool="true" type="FLOATING" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/GitHubTrendingActivity.kt</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepository.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/GitHubTrendingDB.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#63#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/GitHubTabAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#48#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/daos/RepositoryDao.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/ItemClickListener.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/tables/RepoData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/Constants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/GitHubTrendingActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/debug/app/muneesh/githubtrendings/DataBinderMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_github_repo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="132" column="74" selection-start-line="132" selection-start-column="74" selection-end-line="132" selection-end-column="74" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_git_hub_developer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_githubrepo_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="10950" column="26" selection-start-line="10950" selection-start-column="26" selection-end-line="10950" selection-end-column="26" />
+          <folding>
+            <element signature="e#347048#347049#0" expanded="true" />
+            <element signature="e#347094#347095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_github_developer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/di/modules/AppModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="68" column="58" selection-start-line="68" selection-start-column="58" selection-end-line="68" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/BaseFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/GitHubRepoFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/com/bumptech/glide/Glide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="799" column="31" selection-start-line="799" selection-start-column="31" selection-end-line="799" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_git_hub_repo_deatail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/BaseActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/activity/GitHubRepoDeatailActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/tables/DeveloperData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/DBConstants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/remotedatasource/RemoteRepository.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-module-junit4/1.7.4/2cb09ea43bf798e98e0fd70a3ccfe532c5e12829/powermock-module-junit4-1.7.4-sources.jar!/org/powermock/modules/junit4/PowerMockRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/ExampleUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.8.9/45f340ae3e0a0d7a97a1cb8173a081a3856c41eb/mockito-core-2.8.9-sources.jar!/org/mockito/Mockito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="1917" column="10" lean-forward="true" selection-start-line="1917" selection-start-column="10" selection-end-line="1917" selection-end-column="10" />
+          <folding>
+            <element signature="e#89179#89180#0" expanded="true" />
+            <element signature="e#89237#89238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/core/CoreUtilsTest.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/CoreUtils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/app/muneesh/githubtrendings/ExampleInstrumentedTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepositoryImplTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/datalayer/localdatasource/TestObserver.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/localdatasource/LocalRepositoryImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/RepoViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/core/callbacks/OnItemClickListener.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/TestObserver.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/RxSchedulerRule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/remotedatasource/RemoteRepositoryImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#64#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/RepoListAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModelTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/GitHubRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/app/muneesh/githubtrendings/viewmodels/RepoViewModelTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#48#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/datalayer/remotedatasource/GitHubTrendingAPIService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/fragment/GitHubDeveloperFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/ui/adapter/DeveloperListAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/viewmodels/DeveloperViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/app/muneesh/githubtrendings/application/GitHubTrendingApp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#49#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

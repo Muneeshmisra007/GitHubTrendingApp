@@ -13,12 +13,4 @@ abstract class ActivityModule {
     @ContributesAndroidInjector(modules = [FragmentModule::class])
      abstract fun contributeGitHubTrendingActivity(): GitHubTrendingActivity
 
-/*
-    @ContributesAndroidInjector
-    internal abstract fun contributeGitHubDeveloperFragment(): GitHubDeveloperFragment
-
-    @ContributesAndroidInjector
-    internal abstract fun contributeGitHubRepoFragment(): GitHubRepoFragment
-*/
-
 }

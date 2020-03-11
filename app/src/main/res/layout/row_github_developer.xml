@@ -20,7 +20,6 @@
         style="@style/CardView.Light"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="@{()->adapter.onClick(devData)}"
         card_view:cardCornerRadius="4dp"
         card_view:cardMaxElevation="2dp"
         card_view:cardPreventCornerOverlap="false"
